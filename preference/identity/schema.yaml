@@ -5,6 +5,11 @@ attributes:
       title: name
       description: Description of 'name'
       options: {}
+    surname:
+      type: string
+      title: surname
+      description: Description of 'surname'
+      options: {}
     email:
       type: string
       title: email
