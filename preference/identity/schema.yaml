@@ -1,5 +1,10 @@
 attributes:
   properties:
+    name:
+      type: string
+      title: name
+      description: Description of 'name'
+      options: {}
     email:
       type: string
       title: email
