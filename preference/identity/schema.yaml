@@ -1,0 +1,7 @@
+attributes:
+  properties:
+    email:
+      type: string
+      title: email
+      description: Description of 'email'
+      options: {}
